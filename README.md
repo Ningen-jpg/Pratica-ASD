@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Pratica per ASD</h1>
+<h1 id="title">Pratica per ASD</h1>
 
 <p align="center"><img src="https://socialify.git.ci/Ningen-jpg/Pratica-ASD/image?custom_description=Pratica+per+i+vari+algoritmi+di+ASD&amp;description=1&amp;font=Rokkitt&amp;language=1&amp;logo=https%3A%2F%2Fplay-lh.googleusercontent.com%2F9zvNJHedNg_6lOdwcodODMVsyeHKxuTIpnbBzomRGGZAp_vKVXnd5SlF8XZcXyGYjQ&amp;name=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"width="600" height="700"></p>
 
