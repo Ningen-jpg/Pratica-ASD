@@ -1,0 +1,7 @@
+La chiave é: 5, il valore è: r
+La chiave é: 0, il valore è: *
+La chiave é: 1, il valore è: U
+La chiave é: 2, il valore è: p
+La chiave é: 3, il valore è: V
+La chiave é: 4, il valore è: b
+La chiave é: 0, il valore è: W

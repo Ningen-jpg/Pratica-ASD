@@ -1,0 +1,5 @@
+Nodo : 1collegato a: 4con peso: : 2
+Nodo : 4collegato a: 2con peso: : 2
+Nodo : 7collegato a: 5con peso: : 3
+Nodo : 5collegato a: 3con peso: : 1
+Nodo : 3collegato a: 2con peso: : 1

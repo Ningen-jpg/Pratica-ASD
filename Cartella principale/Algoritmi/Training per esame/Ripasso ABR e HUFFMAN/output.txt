@@ -1,0 +1,7 @@
+chiave: 5,  valore: r
+chiave: 0,  valore: *
+chiave: 1,  valore: U
+chiave: 2,  valore: p
+chiave: 3,  valore: V
+chiave: 4,  valore: b
+chiave: 0,  valore: W

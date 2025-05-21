@@ -1,0 +1,10 @@
+L'elemento ha come chiave: 5, ed ha come valore: 9
+La chiave è: 0, il valore è: 9
+La chiave è: 1, il valore è: 5
+La chiave è: 2, il valore è: 7
+La chiave è: 3, il valore è: 5
+La chiave è: 2, il valore è: 6
+La chiave è: 4, il valore è: 9
+La chiave è: 6, il valore è: 4
+La chiave è: 4, il valore è: 7
+La chiave è: 5, il valore è: 9

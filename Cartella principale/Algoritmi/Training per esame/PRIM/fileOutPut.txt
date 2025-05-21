@@ -1,0 +1,8 @@
+DISTANZE DAL NODO 2:
+
+distanza al nodo: 2:  0
+distanza al nodo: 3:  3
+distanza al nodo: 5:  8
+distanza al nodo: 4:  4
+distanza al nodo: 1:  5
+distanza al nodo: 7:  15

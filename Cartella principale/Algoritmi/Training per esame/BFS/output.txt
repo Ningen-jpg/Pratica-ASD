@@ -1,0 +1,6 @@
+Distanza dal nodo1: 
+Distanza al nodo: 1: 0
+Distanza al nodo: 2: 3
+Distanza al nodo: 3: 5
+Distanza al nodo: 4: 4
+Distanza al nodo: 5: 12

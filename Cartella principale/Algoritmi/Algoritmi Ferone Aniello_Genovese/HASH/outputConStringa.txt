@@ -1,0 +1,5 @@
+L'elemento ha come chiave: 2, ed ha come valore: CER
+La chiave è: 1, il valore è: Nbs
+La chiave è: 2, il valore è: CER
+La chiave è: 3, il valore è: ABC
+La chiave è: 2, il valore è: Oldi
