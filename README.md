@@ -1,6 +1,5 @@
-<h3 align="center">Pratica per ASD</h3>
+<h1 align="center" id="title">Pratica per ASD</h1>
 
+<p align="center"><img src="https://socialify.git.ci/Ningen-jpg/Pratica-ASD/image?custom_description=Pratica+per+i+vari+algoritmi+di+ASD&amp;description=1&amp;font=Rokkitt&amp;language=1&amp;logo=https%3A%2F%2Fplay-lh.googleusercontent.com%2F9zvNJHedNg_6lOdwcodODMVsyeHKxuTIpnbBzomRGGZAp_vKVXnd5SlF8XZcXyGYjQ&amp;name=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<p align="center"><img src="https://img.shields.io/github/commit-activity/w/Ningen-jpg/Pratica-ASD?style=plastic&amp;logo=geeksforgeeks&amp;logoColor=white&amp;logoSize=auto&amp;label=Numero%20di%20commit%3A&amp;labelColor=green&amp;color=black&amp;link=https%3A%2F%2Fgithub.com%2FNingen-jpg%2FPratica-ASD%2Fcommits%2Fmain%2F" alt="shields"></p>
